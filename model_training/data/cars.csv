@@ -1,0 +1,71 @@
+id,model,brand,price_lakh,fuel_type,transmission,seating,engine_cc,power_bhp,mileage_km,body_type,safety_rating,airbags,sunroof,parking_sensor,abs
+1,Alto K10,Maruti,3.99,Petrol,Manual,5,998,67,24.39,Hatchback,3,2,Yes,Yes,Yes
+2,S-Presso,Maruti,4.26,Petrol,Manual,5,998,67,25.30,Hatchback,2,2,No,Yes,Yes
+3,WagonR,Maruti,5.54,Petrol,Manual,5,998,67,24.43,Hatchback,3,2,No,Yes,Yes
+4,Swift,Maruti,5.99,Petrol,Manual,5,1197,90,23.20,Hatchback,4,2,Yes,Yes,Yes
+5,Baleno,Maruti,6.66,Petrol,Manual,5,1197,90,22.35,Hatchback,4,2,Yes,Yes,Yes
+6,Fronx,Maruti,7.51,Petrol,Manual,5,1197,90,21.79,SUV,4,2,Yes,Yes,Yes
+7,Brezza,Maruti,8.34,Petrol,Manual,5,1462,103,19.80,SUV,4,2,Yes,Yes,Yes
+8,Grand Vitara,Maruti,10.70,Petrol,Manual,5,1462,103,19.38,SUV,4,2,Yes,Yes,Yes
+9,Jimny,Maruti,12.74,Petrol,Manual,5,1462,105,16.94,SUV,4,2,Yes,Yes,Yes
+10,Invicto,Maruti,24.79,Petrol,Automatic,7,1987,184,22.10,SUV,5,6,Yes,Yes,Yes
+11,i10 Nios,Hyundai,5.92,Petrol,Manual,5,1197,83,20.70,Hatchback,4,2,No,Yes,Yes
+12,i20,Hyundai,7.04,Petrol,Manual,5,1197,88,20.35,Hatchback,4,2,Yes,Yes,Yes
+13,Exter,Hyundai,6.13,Petrol,Manual,5,1197,83,19.40,SUV,4,2,Yes,Yes,Yes
+14,Venue,Hyundai,7.94,Petrol,Manual,5,1197,83,18.15,SUV,4,2,Yes,Yes,Yes
+15,Creta,Hyundai,11.00,Petrol,Manual,5,1497,115,17.40,SUV,4,2,Yes,Yes,Yes
+16,Verna,Hyundai,11.00,Petrol,Manual,5,1497,115,18.60,Sedan,5,2,Yes,Yes,Yes
+17,Tucson,Hyundai,27.45,Petrol,Automatic,5,1999,156,14.60,SUV,5,6,Yes,Yes,Yes
+18,Ioniq 5,Hyundai,45.95,Electric,Automatic,5,0,217,0.00,SUV,5,6,Yes,Yes,Yes
+19,Punch,Tata,6.13,Petrol,Manual,5,1199,86,18.80,SUV,5,2,Yes,Yes,Yes
+20,Nexon,Tata,8.15,Petrol,Manual,5,1199,120,17.40,SUV,5,2,Yes,Yes,Yes
+21,Harrier,Tata,15.49,Diesel,Manual,5,1956,170,16.35,SUV,5,2,Yes,Yes,Yes
+22,Safari,Tata,16.19,Diesel,Manual,7,1956,170,14.50,SUV,5,6,Yes,Yes,Yes
+23,Nexon EV,Tata,14.74,Electric,Automatic,5,0,143,0.00,SUV,5,2,Yes,Yes,Yes
+24,Curvv,Tata,10.40,Petrol,Manual,5,1199,120,17.50,SUV,5,2,Yes,Yes,Yes
+25,Altroz,Tata,6.65,Petrol,Manual,5,1199,88,19.33,Hatchback,5,2,Yes,Yes,Yes
+26,Tiago,Tata,5.65,Petrol,Manual,5,1199,86,20.09,Hatchback,4,2,No,Yes,Yes
+27,Tiago EV,Tata,7.99,Electric,Automatic,5,0,75,0.00,Hatchback,4,2,No,Yes,Yes
+28,Amaze,Honda,7.63,Petrol,Manual,5,1199,90,18.60,Sedan,4,2,No,Yes,Yes
+29,City,Honda,11.82,Petrol,Manual,5,1498,121,17.80,Sedan,5,2,Yes,Yes,Yes
+30,Elevate,Honda,11.58,Petrol,Manual,5,1498,121,15.31,SUV,5,2,Yes,Yes,Yes
+31,Thar,Mahindra,11.25,Diesel,Manual,4,1997,152,15.20,SUV,4,2,No,Yes,Yes
+32,XUV700,Mahindra,14.49,Petrol,Manual,5,1999,200,13.00,SUV,5,2,Yes,Yes,Yes
+33,Scorpio-N,Mahindra,13.85,Diesel,Manual,7,2184,172,14.61,SUV,4,2,No,Yes,Yes
+34,XUV3XO,Mahindra,7.99,Petrol,Manual,5,1197,110,18.89,SUV,5,2,Yes,Yes,Yes
+35,Thar ROXX,Mahindra,12.99,Diesel,Manual,5,2184,152,15.20,SUV,5,2,Yes,Yes,Yes
+36,Bolero Neo,Mahindra,9.90,Diesel,Manual,7,1493,100,17.20,SUV,3,2,No,Yes,Yes
+37,Seltos,Kia,10.90,Petrol,Manual,5,1497,115,17.10,SUV,4,2,Yes,Yes,Yes
+38,Sonet,Kia,7.99,Petrol,Manual,5,1197,83,18.40,SUV,4,2,Yes,Yes,Yes
+39,Carens,Kia,10.52,Petrol,Manual,7,1497,115,15.70,MUV,4,2,Yes,Yes,Yes
+40,Carnival,Kia,30.99,Diesel,Automatic,7,2199,200,14.11,MUV,5,6,Yes,Yes,Yes
+41,EV6,Kia,60.97,Electric,Automatic,5,0,229,0.00,SUV,5,6,Yes,Yes,Yes
+42,Glanza,Toyota,6.90,Petrol,Manual,5,1197,90,22.35,Hatchback,4,2,Yes,Yes,Yes
+43,Urban Cruiser Hyryder,Toyota,11.14,Petrol,Manual,5,1462,103,19.38,SUV,4,2,Yes,Yes,Yes
+44,Fortuner,Toyota,33.43,Diesel,Automatic,7,2755,204,14.20,SUV,5,7,Yes,Yes,Yes
+45,Innova Crysta,Toyota,19.99,Diesel,Manual,7,2393,150,15.10,MUV,5,3,No,Yes,Yes
+46,Innova Hycross,Toyota,18.92,Petrol,Automatic,7,1987,184,23.24,MUV,5,6,Yes,Yes,Yes
+47,Polo,Volkswagen,7.99,Petrol,Manual,5,999,110,18.24,Hatchback,4,2,No,Yes,Yes
+48,Virtus,Volkswagen,11.56,Petrol,Manual,5,1498,150,18.12,Sedan,5,2,Yes,Yes,Yes
+49,Taigun,Volkswagen,11.70,Petrol,Manual,5,1498,150,17.23,SUV,5,2,Yes,Yes,Yes
+50,Tiguan,Volkswagen,35.17,Petrol,Automatic,5,1984,190,12.65,SUV,5,6,Yes,Yes,Yes
+51,Slavia,Skoda,11.63,Petrol,Manual,5,1498,150,18.72,Sedan,5,2,Yes,Yes,Yes
+52,Kushaq,Skoda,11.89,Petrol,Manual,5,1498,150,17.95,SUV,5,2,Yes,Yes,Yes
+53,Kylaq,Skoda,7.89,Petrol,Manual,5,999,115,19.76,SUV,5,2,Yes,Yes,Yes
+54,MG Comet,MG,6.99,Electric,Automatic,4,0,42,0.00,Hatchback,4,2,No,No,Yes
+55,Astor,MG,10.38,Petrol,Manual,5,1498,110,14.30,SUV,4,2,Yes,Yes,Yes
+56,Hector,MG,14.95,Petrol,Manual,5,1451,143,13.79,SUV,4,2,Yes,Yes,Yes
+57,Gloster,MG,38.08,Diesel,Automatic,7,1996,218,12.35,SUV,5,6,Yes,Yes,Yes
+58,ZS EV,MG,18.98,Electric,Automatic,5,0,177,0.00,SUV,5,2,Yes,Yes,Yes
+59,Magnite,Renault,6.00,Petrol,Manual,5,999,72,19.35,SUV,4,2,Yes,Yes,Yes
+60,Triber,Renault,6.33,Petrol,Manual,7,999,72,19.00,MUV,4,2,No,Yes,Yes
+61,Kiger,Renault,6.50,Petrol,Manual,5,999,72,19.17,SUV,4,2,Yes,Yes,Yes
+62,S-Cross (discontinued),Maruti,12.39,Petrol,Manual,5,1462,105,18.55,SUV,4,2,Yes,Yes,Yes
+63,Compass,Jeep,20.49,Diesel,Automatic,5,1956,170,17.10,SUV,5,6,Yes,Yes,Yes
+64,Meridian,Jeep,30.49,Diesel,Automatic,7,1956,170,14.60,SUV,5,6,Yes,Yes,Yes
+65,BMW X1,BMW,49.50,Petrol,Automatic,5,1998,204,14.04,SUV,5,8,Yes,Yes,Yes
+66,BMW 3 Series,BMW,54.00,Petrol,Automatic,5,1998,258,16.13,Sedan,5,6,Yes,Yes,Yes
+67,A-Class Limousine,Mercedes,46.00,Petrol,Automatic,5,1332,163,17.50,Sedan,5,7,Yes,Yes,Yes
+68,GLA,Mercedes,50.50,Petrol,Automatic,5,1332,163,17.40,SUV,5,7,Yes,Yes,Yes
+69,A4,Audi,43.85,Petrol,Automatic,5,1984,204,15.52,Sedan,5,8,Yes,Yes,Yes
+70,Q3,Audi,44.25,Petrol,Automatic,5,1984,190,14.93,SUV,5,6,Yes,Yes,Yes
