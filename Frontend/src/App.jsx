@@ -121,7 +121,7 @@ export default function App() {
               </label>
               <input type="range" min="5" max="200" step="5"
                 value={form.budget_in_lakhs} onChange={set('budget_in_lakhs')} />
-              <div className="flex justify-between text-xs text-stone-600 mt-1">
+              <div className="flex justify-between text-xs text-stone-400 mt-1">
                 <span>₹5L</span><span>₹2 Cr</span>
               </div>
             </div>
@@ -133,7 +133,7 @@ export default function App() {
               </label>
               <input type="range" min="5000" max="50000" step="1000"
                 value={form.yearly_km} onChange={set('yearly_km')} />
-              <div className="flex justify-between text-xs text-stone-600 mt-1">
+              <div className="flex justify-between text-xs text-stone-400 mt-1">
                 <span>5,000 km</span><span>50,000 km</span>
               </div>
               <small>Powers the 5‑year fuel ownership calculator</small>
