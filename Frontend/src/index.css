@@ -37,7 +37,7 @@ body {
   position: absolute;
   inset: 0;
   background: url('/hero-car.png') center center / cover no-repeat;
-  opacity: 0.7;
+  opacity: 0.4;
   pointer-events: none;
   z-index: 0;
 }
@@ -46,7 +46,7 @@ body {
   .hero-bg-car {
     background-size: 200% auto;
     background-position: center 30%;
-    opacity: 0.7;
+    opacity: 0.4;
   }
 }
 
