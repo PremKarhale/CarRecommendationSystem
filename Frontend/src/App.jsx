@@ -387,6 +387,13 @@ export default function App() {
           </div>
         </div>
       )}
+
+      {/* FOOTER TERMS */}
+      <div className="text-center mt-12 pb-6">
+        <a href="#terms" className="text-[0.65rem] text-stone-500 hover:text-stone-400 transition-colors">
+          *Terms &amp; Conditions: Prices are estimated based on MSRP conversion and may vary in india.
+        </a>
+      </div>
     </div>
   );
 }
