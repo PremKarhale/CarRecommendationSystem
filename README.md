@@ -2,7 +2,7 @@
 
 Drive IQ is an intelligent, personalized car recommendation engine designed to bridge the gap between abstract user preferences and real-world vehicle markets. Utilizing a robust machine learning backend alongside a modern, interactive frontend, Drive IQ recommends optimal vehicles based on budget, style, focus (efficiency vs. performance), and luxury requirements.
 
-A standout feature of this system is its **context-aware pricing model for the Indian market**, which intelligently translates US MSRP data into realistic Indian On-Road prices using dynamic, tiered tax brackets, import duties, and GST incentives.
+A standout feature of this system is its **context-aware pricing model for the Indian market**, which intelligently translates US MSRP data into realistic Indian On-Road prices using dynamic, tiered tax brackets, import duties, and GST incentives. The complete containerized system is **successfully deployed in production on an AWS EC2 server.**
 
 ## 🏗️ Architecture & Tech Stack
 
@@ -11,7 +11,7 @@ The application is built using a modern decoupled architecture, containerized fo
 ### Tech Stack
 * **Frontend:** React 19, Vite, Tailwind CSS v4, Lucide React (Icons).
 * **Backend:** Python, FastAPI, Pandas, NumPy, Scikit-learn, Joblib.
-* **Deployment:** Docker, Docker Compose.
+* **Deployment:** Docker, Docker Compose, AWS EC2.
 * **ML Model:** Scikit-learn (Cosine Similarity, Data Scaling & One-hot encoding).
 
 ### Architecture
