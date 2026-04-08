@@ -5,7 +5,7 @@ import {
 } from 'lucide-react';
 import './index.css';
 
-const API_URL = 'http://13.201.70.18:8000/api/cars/recommend';
+const API_URL = '/api/cars/recommend';
 
 // Helpers
 function fuelBadgeClass(fuelType) {
