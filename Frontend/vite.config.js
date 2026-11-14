@@ -8,7 +8,7 @@ export default defineConfig({
   server: {
     proxy: {
       '/api': {
-        target: 'http://13.201.70.18:8000',
+        target: 'https://carrecommendationsystem.onrender.com',
         changeOrigin: true
       }
     }
