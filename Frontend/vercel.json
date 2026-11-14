@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "http://13.201.70.18:8000/api/:match*"
+      "destination": "https://carrecommendationsystem.onrender.com"
     }
   ]
 }
