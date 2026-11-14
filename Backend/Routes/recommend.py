@@ -21,7 +21,7 @@ except Exception as e:
     scaler = ohe = feature_matrix = df = None
 
 
-@router.post("/recommend")
+@router.post("/recommend") # 1st route
 def get_recommendations(request: CarRecommendationRequest, top_n: int = 5):
     if df is None:
         raise HTTPException(status_code=500, detail="Model artifacts not found. Please export from Jupyter Notebook first.")
