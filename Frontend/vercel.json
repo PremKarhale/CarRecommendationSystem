@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/api/:match*",
-      "destination": "https://carrecommendationsystem.onrender.com"
+      "source": "/api/:path*",
+      "destination": "https://carrecommendationsystem.onrender.com/api/:path*"
     }
   ]
 }
